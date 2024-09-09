@@ -1,8 +1,8 @@
-Busca Relâmpago de Atletas de Vôlei** 
+## Busca de Atletas de Vôlei! - Imersão DEV com Google Gemini
 
 **O que faz essa aplicação?**
 
-Imagina que você é um super fã de vôlei e quer saber tudo sobre seus atletas favoritos. Com essa aplicação, você pode digitar o nome do atleta que te interessa e pronto! Uma lista personalizada com informações sobre ele aparecerá na tela, como se fosse mágica. ‍♂️
+Imagina que você é um super fã de vôlei e quer saber tudo sobre seus atletas favoritos. Com essa aplicação, você pode digitar o nome do atleta que te interessa e pronto! Uma lista personalizada com informações sobre ele aparecerá na tela, como se fosse mágica.
 
 **Como funciona?**
 
@@ -26,10 +26,10 @@ Imagina que você é um super fã de vôlei e quer saber tudo sobre seus atletas
 
 **Contribuições:** Se você quiser ajudar a melhorar essa aplicação, fique à vontade para abrir um pull request. Toda ajuda é bem-vinda!
 
-**Agradecimentos:** Agradecemos aos atletas de vôlei por nos inspirarem a criar essa aplicação. Vocês são demais! 
+**Agradecimentos:** Agradecemos aos atletas de vôlei por nos inspirarem a criar essa aplicação, vocês são demais!
 
 **Disclaimer:** As informações presentes nesta aplicação foram coletadas de fontes públicas e podem não ser 100% precisas.
 
-**#vôlei #programação #webdev #github**
+**#vôlei #programação #webdev #github #alura**
 
 **Vamos juntos levar o vôlei para o mundo digital!** 
